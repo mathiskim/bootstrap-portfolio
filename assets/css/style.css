@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 1096px;  
+/*    width: 960px;  */
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding-top: 0px;
+    margin-top: 0px;
+    border: 5px solid yellow;
+    font-size: 12px;
+}
+h1, h2, h3 {
+    font-family: "Georgia", Times, 'Times New Roman', serif;
+}
+.navbar-header a {
+    color: white;  
+    background: teal;   
+    font-size: 24px; 
+}    
+.panel-title {
+	text-align: center;
+}
+
+.tiny {
+	height: 100%;
+	width: 100%;  	
+}
+.cme {
+	width: 30%;	
+}
+#foot {
+	clear: both;
+  width: 100%; 
+  text-align: center;
+  
+}
+#foot p {
+	
+  text-align: center;
+  }
+#tellme {
+	float: right;
+	border: 2px solid blue;
+}
+#pic1 {
+	float: left;
+	border: 2px solid blue;
+}
+#hangman {
+  background: teal;
+  color: white;
+  font-size: 24px;  
+  text-align: center;
+  width: 247%;
+
+}
